@@ -16,4 +16,4 @@ A pixel-perfect frontend web page recreated from a Figma design using **HTML, CS
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Figma-Design-page.git
+   git clone[ https://github.com/YourUsername/Figma-Design-page.git](https://github.com/rohiitrajputt9/Figma-design-Frontend--Page.git)
